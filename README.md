@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## Make sure to change the connection string in the `DbSet.cs` file located inside the `proxy` folder to match your database configuration.
+### Make sure to change the connection string in the `DbSet.cs` file located inside the `proxy` folder to match your database configuration.
 
 Hello fellow user,
 
