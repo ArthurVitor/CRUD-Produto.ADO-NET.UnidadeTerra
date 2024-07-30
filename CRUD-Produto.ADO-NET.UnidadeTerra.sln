@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-Produto.ADO-NET.UnidadeTerra", "CRUD-Produto.ADO-NET.UnidadeTerra\CRUD-Produto.ADO-NET.UnidadeTerra.csproj", "{D9ADE659-31DF-41CC-A26C-EECEEB107389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9ADE659-31DF-41CC-A26C-EECEEB107389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9ADE659-31DF-41CC-A26C-EECEEB107389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9ADE659-31DF-41CC-A26C-EECEEB107389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9ADE659-31DF-41CC-A26C-EECEEB107389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB02965-C5D2-4C4B-BA74-B7BF635CC3D7}
+	EndGlobalSection
+EndGlobal
